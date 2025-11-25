@@ -1,4 +1,4 @@
-#Run the bash script inside called 'start.sh'
+Run the bash script inside called 'start.sh'
 
 POST : 
 localhost:8080/customers?name=Anna&phone=123456789
