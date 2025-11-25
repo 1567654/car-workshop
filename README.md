@@ -1,3 +1,5 @@
+#Run the bash script inside called 'start.sh'
+
 POST : 
 localhost:8080/customers?name=Anna&phone=123456789
 
@@ -16,4 +18,4 @@ localhost:8080/vehicles
 GET : 
 localhost:8080/vehicles-by-brand?brand=Volvo
 
-Run the bash script inside called 'start.sh'
+
